@@ -20,5 +20,5 @@
 			"src/Sms/functions.php"
 		]
 	},
-	"minimum-stability": "beta"
+	"minimum-stability": "1.0.0"
 }
