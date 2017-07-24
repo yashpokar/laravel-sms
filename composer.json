@@ -19,6 +19,5 @@
 		"files": [
 			"src/Sms/functions.php"
 		]
-	},
-    "minimum-stability": "stable"
+	}
 }
